@@ -1,0 +1,43 @@
+.money-details-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.money-detail-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  border-radius: 8px;
+  margin-left: 40px;
+}
+
+.image-el {
+  height: 80px;
+  width: 80px;
+  margin-left: 5px;
+}
+
+.money-cont {
+  margin-left: 10px;
+  text-align: center;
+}
+.money-cont p {
+  margin-bottom: 0px;
+}
+
+.balance-cont {
+  background-color: #ecfccb;
+  border-radius: 18px;
+}
+
+.income-cont {
+  background-color: #06b6d4;
+  border-radius: 18px;
+}
+
+.expence-cont {
+  background-color: #cbd5e1;
+  border-radius: 18px;
+}
